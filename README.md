@@ -44,7 +44,6 @@ https://raw.githubusercontent.com/jingkaiwong/yingxia-plugins/main/source.json
 
 - [`source.json`](./source.json)：映匣导入用的插件源索引。
 - [`douyu-2.0.26-yingxia-login-test.zip`](./douyu-2.0.26-yingxia-login-test.zip)：适配后的斗鱼插件安装包。
-- [`douyu-2.0.26-yingxia-source-template.json`](./douyu-2.0.26-yingxia-source-template.json)：制作源索引时使用的模板文件（非正式导入地址）。
 
 ## 注意事项
 
